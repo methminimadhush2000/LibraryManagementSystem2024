@@ -25,8 +25,17 @@ class Book {
 
         return author;
     }
-    public void setTitle(){
+    public int getNumber(){
 
+        return number;
+    }
+    public int getPrice(){
+
+        return price;
+    }
+    public int getnoOfCopies(){
+
+        return noOfCopies;
     }
 
 
